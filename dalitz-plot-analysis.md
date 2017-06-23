@@ -5,5 +5,9 @@
 
 ---
 - a spin-0 particle decay to three pseudo-scalar final states: $$D,B \rightarrow abc$$
+    - the dacay rate:
+    $$
+    \Gamma=\frac{1}{(2\pi)^3 32\sqrt{s^3}}|M|^2 dm^2_{ab}dm^2_{bc}
+    $$
 
 ## 
